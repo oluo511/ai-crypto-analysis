@@ -53,6 +53,7 @@ streamlit run app.py
 
 ```
 ├── app.py                      # Main Streamlit application
+├── main.py                     # Test file (development/testing purposes)
 ├── agents/
 │   ├── analyst.py              # Main analysis agent
 │   └── technical_analyst.py    # Technical analysis
